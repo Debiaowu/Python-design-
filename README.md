@@ -1,2 +1,2 @@
 # Python-design-
-(img src="https://raw.githubusercontent.com/Debiaowu/Python-design-/master/project%202.PNG")
+<img src="https://raw.githubusercontent.com/Debiaowu/Python-design-/master/project%202.PNG">
